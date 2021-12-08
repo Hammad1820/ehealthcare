@@ -6,6 +6,7 @@
 
 
 
+
 @section('content')
     <div id="wrapper">
         @include('admin/nav')
